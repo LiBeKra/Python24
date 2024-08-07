@@ -1,5 +1,9 @@
 # Mein erstes Python programm
 
+[![GitHub release](https://img.shields.io/github/release/LiBeKra/Python24.svg)](https://GitHub.com/LiBeKra/Python24/releases/)
+[![MIT license](https://img.shields.io/github/license/LiBeKra/Python24)](https://LiBeKra.mit-license.org/)
+
+
 ## Primzahlen berechnen
 
 Wir fangen einfach an:
