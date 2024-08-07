@@ -6,8 +6,9 @@ def primzahl(zahl):
         return False
     if zahl/3 - int(zahl/3) ==0:
         return False
-    if zahl/5 - int(zahl/5) ==0:
-        return False
+    if zahl > 5:
+        if zahl/5 - int(zahl/5) ==0:
+            return False
     return True 
 
 
